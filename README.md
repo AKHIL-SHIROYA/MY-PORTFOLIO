@@ -2,6 +2,9 @@
 
 This is my personal portfolio website showcasing my skills, experience, and projects. It includes sections for services, education, experience, and a contact form.
 
+## 🖥️ Live Demo
+[View Portfolio]() *(Replace `#` with your actual link when deployed)*
+
 ## 🚀 Features
 - Responsive and modern design  
 - Interactive homepage with smooth animations  
